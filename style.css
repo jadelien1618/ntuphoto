@@ -94,3 +94,7 @@ nav ul {
 #right::-webkit-scrollbar {
   display: none;
 }
+
+body { 
+  margin:0; 
+}
