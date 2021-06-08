@@ -1,0 +1,96 @@
+﻿.outercontainer {
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  padding: 30px;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 30px;
+  padding-bottom:60px;
+}
+
+.header {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: bold;
+  font-family: trebuchet ms, arial, hevetica, sans-serif;
+  text-transform: none;
+  text-decoration: none;
+  color: #000000;
+  letter-spacing: .1400em;
+}
+
+.header:hover {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: bold;
+  font-family: trebuchet ms, arial, hevetica, sans-serif;
+  text-transform: none;
+  text-decoration: none;
+  color: #000000;
+  letter-spacing: .1400em;
+}
+
+.item {
+  font-size: 14px;
+  line-height: 16px;
+  font-family: trebuchet ms, arial, hevetica, sans-serif;
+  text-transform: none;
+  text-decoration: none;
+  color: #000000;
+  letter-spacing: 00em;
+}
+
+.item:hover {
+  font-size: 14px;
+  line-height: 16px;
+  font-family: trebuchet ms, arial, hevetica, sans-serif;
+  text-transform: none;
+  text-decoration: underline;
+  color: #000000;
+  letter-spacing: 00em;
+}
+
+.statement {
+  font-size: 14px;
+  line-height: 18px;
+  font-family: trebuchet ms, arial, hevetica, sans-serif;
+  text-transform: none;
+  text-decoration: none;
+  color: #000000;
+  letter-spacing: 00em;
+}
+
+.statement:hover {
+  font-size: 14px;
+  line-height: 18px;
+  font-family: trebuchet ms, arial, hevetica, sans-serif;
+  text-transform: none;
+  text-decoration: underline;
+  color: #000000;
+  letter-spacing: 00em;
+}
+
+#left {
+  position: absolute;
+  width: 360px;
+  height: 800px;
+}
+
+#right {
+  margin-left: 370px;
+  position: absolute;
+  width: 1250px;
+  height: 800px;
+  overflow: auto;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+#right::-webkit-scrollbar {
+  display: none;
+}
