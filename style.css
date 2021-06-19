@@ -223,7 +223,7 @@ body {
 	}
 	#bufferLeft, #bufferRight {
 		top: 0; bottom: 0;
-		width: 16px;
+		width: 14px;
     z-index: 2;
 		}
 		#bufferLeft { left: 0; }
@@ -231,7 +231,7 @@ body {
 		
 	#bufferTop, #bufferBottom {
 		left: 0; right: 0;
-		height: 16px  ;
+		height: 14px  ;
     z-index: 2;
 		}
 		#bufferTop { top: 0; }
@@ -269,9 +269,9 @@ body {
 
 
  #logoContainer {
-    right: 88px;
+right: 88px;
     
-    position: absolute;
+    position: fixed;
     height: 100%;
 
   }
