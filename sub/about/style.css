@@ -2,7 +2,7 @@
   font-size: 14px;
   line-height: 18px;
   font-weight: bold;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
+  font-family: Microsoft JhengHei,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif!important;
   text-transform: none;
   text-decoration: none;
   color: #000000;
@@ -13,7 +13,7 @@
   font-size: 14px;
   line-height: 18px;
   font-weight: bold;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
+  font-family: Microsoft JhengHei,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif!important;
   text-transform: none;
   text-decoration: none;
   color: #000000;
@@ -23,7 +23,7 @@
 .item {
   font-size: 14px;
   line-height: 16px;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
+  font-family: Microsoft JhengHei,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif!important;
   text-transform: none;
   text-decoration: none;
   color: #000000;
@@ -33,7 +33,7 @@
 .statement {
   font-size: 14px;
   line-height: 18px;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
+  font-family: Microsoft JhengHei,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif!important;
   text-transform: none;
   text-decoration: none;
   color: #000000;
@@ -43,7 +43,7 @@
 .statement:hover {
   font-size: 14px;
   line-height: 18px;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
+  font-family: Microsoft JhengHei,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif!important;
   text-transform: none;
   text-decoration: underline;
   color: #000000;
@@ -65,7 +65,7 @@
 }
 
 .buffer {
-  padding: 68px;
+  padding: 79px;
 }
 
 audio {

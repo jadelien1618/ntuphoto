@@ -2,8 +2,7 @@
   font-size: 14px;
   line-height: 18px;
   font-weight: bold;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+ font-family: Microsoft JhengHei,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif!important;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: .1400em;
@@ -13,8 +12,7 @@
   font-size: 14px;
   line-height: 18px;
   font-weight: bold;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+ font-family: Microsoft JhengHei,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif!important;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: .1400em;
@@ -23,8 +21,7 @@
 .item {
   font-size: 14px;
   line-height: 16px;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+ font-family: Microsoft JhengHei,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif!important;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;
@@ -33,8 +30,7 @@
 .statement {
   font-size: 14px;
   line-height: 18px;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+ font-family: Microsoft JhengHei,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif!important;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;
@@ -43,8 +39,7 @@
 .statement:hover {
   font-size: 14px;
   line-height: 18px;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+ font-family: Microsoft JhengHei,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif!important;  text-transform: none;
   text-decoration: underline;
   color: #000000;
   letter-spacing: 00em;
@@ -53,19 +48,19 @@
 #left {
   position: fixed;
   width: 650px;
-  height: 800px;
+
 }
 
 #right {
-  padding-left: 80px;
-  margin-left: 600px;
+  padding-left: 45px;
+  margin-left: 630px;
   position: fixed;
-  width: 180px;
-  height: 800px;
+  width: 210px;
+
 }
 
 .buffer {
-  padding: 68px;
+  padding: 79px;
 }
 
 audio {
