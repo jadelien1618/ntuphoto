@@ -1,58 +1,66 @@
 ﻿.header {
-  font-size: large;
-
+  font-size: 14px;
+  line-height: 18px;
   font-weight: bold;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+font-family: Ubuntu;
   text-decoration: none;
   color: #000000;
   letter-spacing: .1400em;
-  -webkit-text-size-adjust: none;
 }
 
 .header:hover {
-  font-size: large;
-
+  font-size: 14px;
+  line-height: 18px;
   font-weight: bold;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+font-family: Ubuntu;
   text-decoration: none;
   color: #000000;
   letter-spacing: .1400em;
-  -webkit-text-size-adjust: none;
 }
 
 .item {
-  font-size: large;
-
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+  font-size: 14px;
+  line-height: 16px;
+font-family: Ubuntu;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;
-  -webkit-text-size-adjust: none;
 }
 
 .statement {
-  font-size: large;
-
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+  font-size: 14px;
+  line-height: 18px;
+font-family: Ubuntu;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;
-  -webkit-text-size-adjust: none;
 }
 
 .statement:hover {
-  font-size: large;
-
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+  font-size: 14px;
+  line-height: 18px;
+font-family: Ubuntu;
   text-decoration: underline;
   color: #000000;
   letter-spacing: 00em;
-  -webkit-text-size-adjust: none;
+}
+
+#left {
+  position: fixed;
+  width: 650px;
+
+}
+
+#right {
+  padding-left: 45px;
+  margin-left: 630px;
+  position: fixed;
+  width: 210px;
+
+}
+
+.buffer {
+  padding: 79px;
 }
 
 audio {

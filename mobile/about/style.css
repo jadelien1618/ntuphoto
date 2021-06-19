@@ -1,58 +1,72 @@
 ﻿.header {
-  font-size: medium;
+  font-size: 14px;
+  line-height: 18px;
   font-weight: bold;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+font-family: Ubuntu;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: .1400em;
-  text-size-adjust: none;
-
 }
 
 .header:hover {
-  font-size: medium;
+  font-size: 14px;
+  line-height: 18px;
   font-weight: bold;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+font-family: Ubuntu;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: .1400em;
 }
 
 .item {
-  font-size: medium;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+  font-size: 14px;
+  line-height: 16px;
+font-family: Ubuntu;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;
 }
 
 .statement {
-  font-size: medium;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+  font-size: 14px;
+  line-height: 18px;
+font-family: Ubuntu;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;
 }
 
 .statement:hover {
-  font-size: medium;
-  font-family: trebuchet ms, arial, hevetica, sans-serif;
-  text-transform: none;
+  font-size: 14px;
+  line-height: 18px;
+font-family: Ubuntu;  text-transform: none;
   text-decoration: underline;
   color: #000000;
   letter-spacing: 00em;
 }
 
+#left {
+  position: fixed;
+  width: 650px;
+  height: 800px;
+}
 
+#right {
+  padding-left: 80px;
+  margin-left: 600px;
+  position: fixed;
+  width: 180px;
+  height: 800px;
+}
+
+.buffer {
+  padding: 79px;
+}
 
 audio {
   filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
   width: 130px;
-  height: 16px;
+  height: 24px;
 }
 
 audio::-webkit-media-controls-mute-button {
