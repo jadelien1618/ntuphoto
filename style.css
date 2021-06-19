@@ -87,7 +87,7 @@ padding-left: 6px;
 
   font-size: 12px;
   line-height: 18px;
-font-family: Ubuntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color:  #fcfcfc;
 font-weight: bold;
@@ -99,7 +99,7 @@ font-weight: bold;
 
   font-size: 14px;
   line-height: 18px;
-font-family: Ubuntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color:  #fcfcfc;
 font-weight: bold;
@@ -110,7 +110,7 @@ font-weight: bold;
 
   font-size: 14px;
   line-height: 18px;
-font-family: Ubuntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color:  black;
 font-weight: bold;
@@ -122,7 +122,7 @@ font-weight: bold;
   font-size: 14px;
   line-height: 18px;
 
-font-family: Ubuntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: white;
   letter-spacing: .1400em;
@@ -131,7 +131,7 @@ font-family: Ubuntu;  text-transform: none;
 .item {
   font-size: 13px;
   line-height: 26px;
-font-family: Ubuntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;
@@ -140,7 +140,7 @@ font-family: Ubuntu;  text-transform: none;
 .item:hover {
   font-size: 13px;
   line-height: 26px;
-font-family: Ubuntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #e13dd0;
   letter-spacing: 00em;
@@ -149,7 +149,7 @@ font-family: Ubuntu;  text-transform: none;
 .line {
   font-size: 13px;
   line-height: 3px;
-  font-family: Ubuntu!important;
+  font-family: Arial!important;
   text-transform: none;
   text-decoration: none;
   color: #000000;
@@ -160,7 +160,7 @@ font-family: Ubuntu;  text-transform: none;
 .statement {
   font-size: 13px;
   line-height: 16px;
-font-family: Ubuntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   font-weight: bold;
   color: #000000;
@@ -170,7 +170,7 @@ font-family: Ubuntu;  text-transform: none;
 .statement:hover {
   font-size: 13px;
   line-height: 16px;
-font-family: Ubuntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #e13dd0;
   letter-spacing: 00em;
