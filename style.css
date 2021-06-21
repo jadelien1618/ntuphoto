@@ -28,7 +28,7 @@ nav ul {
 }
 
 .headerOutercontainer {
-  padding-top: 60px;
+  padding-top: 3.75em;
   position: absolute; 
 
 }
@@ -50,7 +50,7 @@ padding-left: 6px;
 }
 
 .headerOutercontainer2 {
-  padding-top: 172px;
+  padding-top: 10.75em;
   position: absolute; 
 }
 
@@ -72,7 +72,7 @@ padding-left: 6px;
   }
   
   .headerOutercontainer3 {
-    padding-top: 234px;
+    padding-top: 14.625em;
     position: absolute; 
   }
   
