@@ -2,7 +2,7 @@
   font-size: 14px;
   line-height: 18px;
   font-weight: bold;
-font-family: Ubuntu;
+font-family: Arial;
   text-decoration: none;
   color: #000000;
   letter-spacing: .1400em;
@@ -12,25 +12,26 @@ font-family: Ubuntu;
   font-size: 14px;
   line-height: 18px;
   font-weight: bold;
-font-family: Ubuntu;
+font-family: Arial;
   text-decoration: none;
   color: #000000;
   letter-spacing: .1400em;
 }
 
-.item {
+.content {
   font-size: 14px;
   line-height: 24px;
-font-family: Ubuntu;
+  font-family: Arial;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;
+  text-align: left;
 }
 
 .statement {
   font-size: 14px;
   line-height: 18px;
-font-family: Ubuntu;
+font-family: Arial;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;
@@ -39,49 +40,56 @@ font-family: Ubuntu;
 .statement:hover {
   font-size: 14px;
   line-height: 18px;
-font-family: Ubuntu;
+  font-family: Arial;
   text-decoration: underline;
   color: #000000;
   letter-spacing: 00em;
 }
 
-#left {
-  position: fixed;
-  width: 650px;
 
-}
 
 #right {
-  padding-left: 45px;
-  margin-left: 630px;
-  position: fixed;
-  width: 210px;
-
-}
-
-.buffer {
-  padding: 50px;
-}
-
-audio {
-  filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
-  width: 130px;
-  height: 24px;
-}
-
-audio::-webkit-media-controls-mute-button {
-  display: none !important;
-}
   
-audio::-webkit-media-controls-volume-slider {
-  display: none !important;
-}
+  left: 350px;
+  height: 100%;
+  width: 890px;
+  position: absolute;
+
   
-audio::-webkit-media-controls-volume-control-container.closed {
-  display: none !important;
+  }
+table {
+  padding-bottom: 80px;
+  table-layout: fixed;
+
 }
 
-audio::-webkit-media-controls-volume-control-container{
-  display: none !important;
-}
   
+
+#rightTd {
+padding-left: 22px;
+
+overflow: visible;
+white-space: normal;
+
+
+
+}
+
+
+.link {
+  font-size: 14px;
+  line-height:24px;
+font-family: Arial;  text-transform: none;
+  text-decoration: none;
+  color: #000000;
+  letter-spacing: 00em;
+}
+
+.link:hover {
+  font-size: 14px;
+  line-height:24px;
+font-family: Arial;  text-transform: none;
+  text-decoration: none;
+  color: #e13dd0;
+  letter-spacing: 00em;
+}

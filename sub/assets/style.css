@@ -195,19 +195,10 @@ height: 100%
   z-index: 100 ;
 }
 
-#right {
-left: 345px;
-  position: absolute;
-position: fixed;
-  height: 100%;
-
-}
 
 
 
-#right::-webkit-scrollbar {
-  display: none;
-}
+
 
 body { 
   margin:0; 
@@ -247,7 +238,6 @@ body {
 
 #utmostRight {
   padding-top: 19px;
-
   right: 50px;
     position: absolute;
   
@@ -306,11 +296,6 @@ body {
 
 
 
-.buffer {
-  padding: 79px;
-}
-
-
 .contentheader {
   font-size: 14px;
   line-height: 18px;
@@ -340,11 +325,6 @@ font-family: Ubuntu;  text-transform: none;
   letter-spacing: 00em;
 }
 
-#opacity {
-  opacity: 0.3;
-}
-
-
-#special {
-  color: black !important; 
+.buffer {
+  padding-top:105px;
 }
