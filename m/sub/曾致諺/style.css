@@ -1,0 +1,94 @@
+﻿.header {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: bold;
+font-family: Arial;
+  text-decoration: none;
+  color: #000000;
+  letter-spacing: .1400em;
+}
+
+.header:hover {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: bold;
+font-family: Arial;
+  text-decoration: none;
+  color: #000000;
+  letter-spacing: .1400em;
+}
+
+.content {
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Arial;
+  text-decoration: none;
+  color: #000000;
+  letter-spacing: 00em;
+  text-align: left;
+}
+
+.statement {
+  font-size: 14px;
+  line-height: 18px;
+font-family: Arial;
+  text-decoration: none;
+  color: #000000;
+  letter-spacing: 00em;
+}
+
+.statement:hover {
+  font-size: 14px;
+  line-height: 18px;
+  font-family: Arial;
+  text-decoration: underline;
+  color: #000000;
+  letter-spacing: 00em;
+}
+
+
+
+#right {
+  
+  left: 350px;
+  height: 100%;
+  width: 890px;
+  position: absolute;
+
+  
+  }
+table {
+  padding-bottom: 80px;
+  table-layout: fixed;
+
+}
+
+  
+
+#rightTd {
+padding-left: 22px;
+
+overflow: visible;
+white-space: normal;
+
+
+
+}
+
+.link {
+  font-size: 14px;
+  line-height: 26px;
+font-family: Arial;  text-transform: none;
+  text-decoration: none;
+  color: #000000;
+  letter-spacing: 00em;
+}
+
+.link:hover {
+  font-size: 14px;
+  line-height: 26px;
+font-family: Arial;  text-transform: none;
+  text-decoration: none;
+  color: #e13dd0;
+  letter-spacing: 00em;
+}
