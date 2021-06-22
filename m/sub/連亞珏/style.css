@@ -20,7 +20,7 @@ font-family: Arial;
 
 .content {
   font-size: 14px;
-  line-height: 16px !important;
+  line-height: 24px !important;
   font-family: Arial;
   text-decoration: none;
   color: #000000;
@@ -52,7 +52,7 @@ font-family: Arial;
   
   left: 350px;
   height: 100%;
-  width: 890px;
+  width: 550px;
   position: absolute;
 
   
@@ -78,7 +78,7 @@ white-space: normal;
 
 .link {
   font-size: 14px;
-  line-height: 16px !important;
+  line-height: 24px !important;
 font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #000000;
@@ -87,7 +87,7 @@ font-family: Arial;  text-transform: none;
 
 .link:hover {
   font-size: 14px;
-  line-height: 16px !important;
+  line-height: 24px !important;
 font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #e13dd0;

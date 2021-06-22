@@ -16,7 +16,7 @@ document.write("<i>Light</i>, 江明昱</a></li>");
 document.write("<li><a href='嚴紹恩.html' class = 'item'>");
 document.write("<i>抽象危險犯</i>, 嚴紹恩</a></li>");
 document.write("<li><a href='曾致諺.html' class = 'item'>");
-document.write("<i>noname?</i>, 曾致諺</a></li>");
+document.write("<i>???</i>, 曾致諺</a></li>");
 document.write("<li><a href='連亞珏.html' class = 'item'>");
 document.write("<i>SAVE: 救亡圖存</i>, 連亞珏</a></li>");
 document.write("<li><a href='何昀.html' class = 'item'>");
