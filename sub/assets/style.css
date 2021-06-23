@@ -28,7 +28,7 @@ nav ul {
 }
 
 .headerOutercontainer {
-  padding-top: 60px;
+  padding-top: 3.75em;
   position: absolute; 
 
 }
@@ -50,7 +50,7 @@ padding-left: 6px;
 }
 
 .headerOutercontainer2 {
-  padding-top: 182px;
+  padding-top: 11.375em;
   position: absolute; 
 }
 
@@ -72,7 +72,7 @@ padding-left: 6px;
   }
   
   .headerOutercontainer3 {
-    padding-top: 246px;
+    padding-top: 15.375em;
     position: absolute; 
   }
   
@@ -310,7 +310,7 @@ font-family: Arial;  text-transform: none;
   font-size: 14px;
   line-height: 18px;
   font-weight: bold;
-font-family: Arialntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: .1400em;
@@ -319,7 +319,7 @@ font-family: Arialntu;  text-transform: none;
 .content {
   font-size: 14px;
   line-height: 24px;
-font-family: Arialntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;
