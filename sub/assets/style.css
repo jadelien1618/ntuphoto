@@ -50,7 +50,7 @@ padding-left: 6px;
 }
 
 .headerOutercontainer2 {
-  padding-top: 172px;
+  padding-top: 182px;
   position: absolute; 
 }
 
@@ -72,7 +72,7 @@ padding-left: 6px;
   }
   
   .headerOutercontainer3 {
-    padding-top: 234px;
+    padding-top: 246px;
     position: absolute; 
   }
   
@@ -86,7 +86,7 @@ padding-left: 6px;
 .sideheader {
 
   font-size: 12px;
-  line-height: 18px;
+  line-height: 20px;
 font-family: Arial;  text-transform: none;
   text-decoration: none;
   color:  #fcfcfc;
@@ -98,7 +98,7 @@ font-weight: bold;
 .header {
 
   font-size: 14px;
-  line-height: 18px;
+  line-height: 20px;
 font-family: Arial;  text-transform: none;
   text-decoration: none;
   color:  #fcfcfc;

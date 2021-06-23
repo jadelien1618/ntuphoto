@@ -315,7 +315,7 @@ body {
   font-size: 14px;
   line-height: 18px;
   font-weight: bold;
-font-family: Ubuntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: .1400em;
@@ -325,7 +325,7 @@ font-family: Ubuntu;  text-transform: none;
   font-size: 14px;
   line-height: 18px;
   font-weight: bold;
-font-family: Ubuntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: .1400em;
@@ -334,7 +334,7 @@ font-family: Ubuntu;  text-transform: none;
 .content {
   font-size: 14px;
   line-height: 24px;
-font-family: Ubuntu;  text-transform: none;
+font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;

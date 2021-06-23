@@ -46,7 +46,11 @@ font-family: Arial;
   letter-spacing: 00em;
 }
 
-
+#rightcontainer {
+  height: 100%;
+  width: 50%;
+  background-color: green;
+}
 
 #right {
   
@@ -54,7 +58,7 @@ font-family: Arial;
   height: 100%;
   width: 890px;
   position: absolute;
-
+background-color: red;
   
   }
 table {
