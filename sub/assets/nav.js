@@ -35,14 +35,12 @@ document.write("<li><a href='朱祖霖.html' class = 'item'>");
 document.write("<i>Break Free</i>, 朱祖霖</a></li>");
 document.write("<li><a href='陳尊鐸.html' class = 'item'>");
 document.write("<i>Existence Persistence</i>, 陳尊鐸</a></li>");
-//document.write("<li><a href='#' class = 'item'>");
-//document.write("<i>Mon Oncle</i>, 劉O如</a></li>");
-//document.write("<li><a href='#' class = 'item'>");
-//document.write("<i>Woman in the Dunes</i>, 徐O穎</a></li>");
-//document.write("<li><a href='#' class = 'item'>");
-//document.write("<i>Requiem for a Dream</i>, 蕭O宇</a></li>");
-//document.write("<li><a href='#' class = 'item'>");
-//document.write("<i>Brazil</i>, 連O珏</a></li><br>");
+document.write("<li><a href='杜可筠.html' class = 'item'>");
+document.write("<i>???</i>, 杜可筠</a></li>");
+document.write("<li><a href='翁逸云.html' class = 'item'>");
+document.write("<i>???</i>, 翁逸云</a></li>");
+document.write("<li><a href='蔡侑霖.html' class = 'item'>");
+document.write("<i>???</i>, 蔡侑霖</a></li>");
 
 document.write("<li class = 'headernoA'>.............</li><br>");
         
