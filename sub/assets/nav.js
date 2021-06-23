@@ -35,10 +35,13 @@ document.write("<li><a href='朱祖霖.html' class = 'item'>");
 document.write("<i>Break Free</i>, 朱祖霖</a></li>");
 document.write("<li><a href='陳尊鐸.html' class = 'item'>");
 document.write("<i>Existence Persistence</i>, 陳尊鐸</a></li>");
+document.write("<li><a href='翁逸云.html' class = 'item'>");
+document.write("<i>Insight</i>, 翁逸云</a></li>");
+document.write("<li><a href='楊伯中.html' class = 'item'>");
+document.write("<i>現實感</i>, 楊伯中</a></li>");
 document.write("<li><a href='杜可筠.html' class = 'item'>");
 document.write("<i>???</i>, 杜可筠</a></li>");
-document.write("<li><a href='翁逸云.html' class = 'item'>");
-document.write("<i>???</i>, 翁逸云</a></li>");
+
 document.write("<li><a href='蔡侑霖.html' class = 'item'>");
 document.write("<i>???</i>, 蔡侑霖</a></li>");
 
