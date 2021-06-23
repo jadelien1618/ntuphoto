@@ -26,7 +26,7 @@ document.write("<i>???</i>, 蔡秉展</a></li>");
 document.write("<li><a href='齊彥安.html' class = 'item'>");
 document.write("<i>Lorraine / 松板</i>, 齊彥安</a></li>");
 document.write("<li><a href='張景淮.html' class = 'item'>");
-document.write("<i>???</i>, 張景淮</a></li>");
+document.write("<i>淨土</i>, 張景淮</a></li>");
 document.write("<li><a href='洪德程.html' class = 'item'>");
 document.write("<i>Bliss</i>, 洪德程</a></li>");
 document.write("<li><a href='陳浩智.html' class = 'item'>");
