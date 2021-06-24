@@ -39,6 +39,11 @@ document.write("<li><a href='翁逸云.html' class = 'item'>");
 document.write("<i>Insight</i>, 翁逸云</a></li>");
 document.write("<li><a href='楊伯中.html' class = 'item'>");
 document.write("<i>現實感</i>, 楊伯中</a></li>");
+document.write("<li><a href='陳柏豪.html' class = 'item'>");
+document.write("<i>我們這群生活在旭川河上的人們</i>, 陳柏豪</a></li>");
+document.write("<li><a href='李品瑩.html' class = 'item'>");
+document.write("<i>???</i>, 李品瑩</a></li>");
+
 document.write("<li><a href='杜可筠.html' class = 'item'>");
 document.write("<i>???</i>, 杜可筠</a></li>");
 
