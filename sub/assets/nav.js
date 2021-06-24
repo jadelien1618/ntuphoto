@@ -28,7 +28,7 @@ document.write("<i>Lorraine / 松板</i>, 齊彥安</a></li>");
 document.write("<li><a href='張景淮.html' class = 'item'>");
 document.write("<i>淨土</i>, 張景淮</a></li>");
 document.write("<li><a href='洪德程.html' class = 'item'>");
-document.write("<i>Bliss</i>, 洪德程</a></li>");
+document.write("<i>Selections from</i>《Bliss》, 洪德程</a></li>");
 document.write("<li><a href='陳浩智.html' class = 'item'>");
 document.write("<i>不合時e</i>, 陳浩智</a></li>");
 document.write("<li><a href='朱祖霖.html' class = 'item'>");
@@ -42,7 +42,7 @@ document.write("<i>現實感</i>, 楊伯中</a></li>");
 document.write("<li><a href='陳柏豪.html' class = 'item'>");
 document.write("<i>我們這群生活在旭川河上的人們</i>, 陳柏豪</a></li>");
 document.write("<li><a href='李品瑩.html' class = 'item'>");
-document.write("<i>???</i>, 李品瑩</a></li>");
+document.write("<i>捕捉</i>, 李品瑩</a></li>");
 
 document.write("<li><a href='杜可筠.html' class = 'item'>");
 document.write("<i>???</i>, 杜可筠</a></li>");
