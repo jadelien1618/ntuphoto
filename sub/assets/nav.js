@@ -45,7 +45,7 @@ document.write("<li><a href='李品瑩.html' class = 'item'>");
 document.write("<i>捕捉</i>, 李品瑩</a></li>");
 
 document.write("<li><a href='杜可筠.html' class = 'item'>");
-document.write("<i>???</i>, 杜可筠</a></li>");
+document.write("<i>17・18 / 18・19 / STE</i>, 杜可筠</a></li>");
 
 document.write("<li><a href='蔡侑霖.html' class = 'item'>");
 document.write("<i>???</i>, 蔡侑霖</a></li>");
