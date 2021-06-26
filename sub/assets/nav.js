@@ -3,10 +3,11 @@ document.write("<ul>");
     
 document.write("<li><a href='index.html' class = 'statement'>");
 document.write("ABOUT</a></li>");
-document.write("<li><a href = 'https://www.artsteps.com/' target='_blank' class = 'statement'>");
-document.write("ARTSTEPS</a></li>");
-document.write("<li><a href = 'https://www.instagram.com/ target='_blank' class = 'statement'>");
+document.write("<li><a href = 'https://www.instagram.com/ntuphoto_online_exhibition/ target='_blank' class = 'statement'>");
 document.write("INSTAGRAM</a></li><br>");
+document.write("<li><a href = 'https://www.facebook.com/ntuphoto' target='_blank' class = 'statement'>");
+document.write("FACEBOOK</a></li>");
+
 document.write("<li class = 'line'>–––––––</li>");
 document.write("<li class = 'line'>–––––––</li><br>");
 
