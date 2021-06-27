@@ -345,6 +345,6 @@ font-family: Arial;  text-transform: none;
     
     }
     nav {
-      display:none;
+      display:none !important;
     }
 }
