@@ -46,17 +46,20 @@ font-family: Arial;
   letter-spacing: 00em;
 }
 
-
+.outercontainer {
+display: flex;
+}
 
 #right {
-  
+  /*float: left;
   left: 360px;
   height: 100%;
   width: 59%;
-  position: absolute;
-
-  
+  position: relative;*/
+  flex: 0 0 59%;
+  margin-left: 30px;
   }
+
 table {
   padding-bottom: 80px;
   table-layout: fixed;
@@ -93,3 +96,4 @@ font-family: Arial;  text-transform: none;
   color: #e13dd0;
   letter-spacing: 00em;
 }
+

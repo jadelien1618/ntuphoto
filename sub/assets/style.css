@@ -176,15 +176,23 @@ font-family: Arial;  text-transform: none;
   letter-spacing: 00em;
 }
 
+
+
+
+
 #left {
+  /*  display:table-cell;
+  
+    position: absolute;
+  float: left;
+    width: 330px;
+  height: 100%*/
+  flex: 0 0 330px;
+  display:flex;
+  
+  }
 
 
-  position: absolute;
-
-  width: 330px;
-height: 100%
-
-}
 
 #line {
   position: absolute;
@@ -329,4 +337,11 @@ font-family: Arial;  text-transform: none;
 
 .buffer {
   padding-top:105px;
+}
+
+@media screen and (max-width: 768px) {
+  #left {
+  display:none !important;
+    
+    }
 }
