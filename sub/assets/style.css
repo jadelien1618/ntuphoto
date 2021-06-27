@@ -87,7 +87,8 @@ padding-left: 6px;
 
   font-size: 12px;
   line-height: 20px;
-font-family: Arial;  text-transform: none;
+font-family: Arial; 
+text-transform: none;
   text-decoration: none;
   color:  #fcfcfc;
 font-weight: bold;
@@ -181,16 +182,16 @@ font-family: Arial;  text-transform: none;
 
 
 #left {
-  /*  display:table-cell;
+    display:table-cell;
   
     position: absolute;
   float: left;
     width: 330px;
-  height: 100%*/
-  flex: 0 0 330px;
-  display:flex;
+  height: 100%;
   
   }
+
+
 
 
 
@@ -292,9 +293,10 @@ body {
     overflow-x: hidden;
     overflow-y: scroll;
     white-space: nowrap;
-    
+
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
+
   }
   
   .scrolling-wrapper::-webkit-scrollbar {
@@ -339,12 +341,45 @@ font-family: Arial;  text-transform: none;
   padding-top:105px;
 }
 
-@media screen and (max-width: 768px) {
-  #left {
-  display:none !important;
-    
-    }
-    nav {
-      display:none !important;
-    }
+
+
+
+
+@media (max-width: 768px) {
+#utmostRight, #line, nav,  #left, #logoContainer  {
+  display:none;
 }
+
+
+.buffer {
+  padding-top: 70px;
+
+}
+
+
+.content, .link, .link:hover{
+  font-size:10px;
+  line-height: 16px;
+}
+
+
+
+#rightTd {
+  padding-left: 10px;
+  
+  
+  }
+  #right {
+    /*float: left;
+    left: 360px;
+    height: 100%;
+    width: 59%;
+    position: relative;*/
+    margin-left: 50px;
+    left: 0px;
+    width: 80%;
+    }
+
+
+}
+

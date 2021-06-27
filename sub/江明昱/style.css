@@ -51,14 +51,15 @@ display: flex;
 }
 
 #right {
-  /*float: left;
   left: 360px;
   height: 100%;
   width: 59%;
-  position: relative;*/
-  flex: 0 0 59%;
-  margin-left: 30px;
+  position: absolute;
+
   }
+
+
+
 
 table {
   padding-bottom: 80px;
