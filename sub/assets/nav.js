@@ -3,10 +3,10 @@ document.write("<ul>");
     
 document.write("<li><a href='index.html' class = 'statement'>");
 document.write("ABOUT</a></li>");
-document.write("<li><a href = 'https://www.instagram.com/ntuphoto_online_exhibition/ target='_blank' class = 'statement'>");
-document.write("INSTAGRAM</a></li><br>");
+document.write("<li><a href = 'https://www.instagram.com/ntuphoto_online_exhibition/' target='_blank' class = 'statement'>");
+document.write("INSTAGRAM</a></li>");
 document.write("<li><a href = 'https://www.facebook.com/ntuphoto' target='_blank' class = 'statement'>");
-document.write("FACEBOOK</a></li>");
+document.write("FACEBOOK</a></li><br>");
 
 document.write("<li class = 'line'>–––––––</li>");
 document.write("<li class = 'line'>–––––––</li><br>");
@@ -48,8 +48,11 @@ document.write("<i>捕捉</i>, 李品瑩</a></li>");
 document.write("<li><a href='杜可筠.html' class = 'item'>");
 document.write("<i>17・18 / 18・19 / STE</i>, 杜可筠</a></li>");
 
-document.write("<li><a href='蔡侑霖.html' class = 'item'>");
-document.write("<i>???</i>, 蔡侑霖</a></li>");
+document.write("<li><a href='王淨薇.html' class = 'item'>");
+document.write("<i>家庭樹</i>, 王淨薇</a></li>");
+
+//document.write("<li><a href='蔡侑霖.html' class = 'item'>");
+//document.write("<i>???</i>, 蔡侑霖</a></li>");
 
 document.write("<li class = 'headernoA'>.............</li><br>");
         
