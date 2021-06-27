@@ -378,10 +378,19 @@ font-family: Arial;  text-transform: none;
     margin-left: 50px;
     left: 0px;
     width: 80%;
+
     }
 
   
-  
+  .symbolContainer{
+    width: 25px;
+    height: 25px;
+  }
 
+  #backToMenu {
+    margin-top:360px;
+    margin-left: 20px;
+
+  }
 }
 
