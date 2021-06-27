@@ -341,7 +341,9 @@ font-family: Arial;  text-transform: none;
   padding-top:105px;
 }
 
-
+#backToMenu {
+  display:none;
+}
 
 
 
@@ -383,13 +385,17 @@ font-family: Arial;  text-transform: none;
 
   
   .symbolContainer{
-    width: 25px;
-    height: 25px;
+    width: 70px;
+    height: 70px;
   }
 
   #backToMenu {
-    margin-top:360px;
-    margin-left: 20px;
+    display:block;
+    position: absolute;
+
+  bottom: 20px;
+  left: 20px;
+    z-index: 100;
 
   }
 }
