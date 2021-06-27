@@ -400,3 +400,55 @@ font-family: Arial;  text-transform: none;
   }
 }
 
+@media (max-width: 1024px)  and (orientation:landscape) {
+
+  #utmostRight, #line, nav,  #left, #logoContainer  {
+    display:none;
+  }
+  
+  
+  .buffer {
+    padding-top: 70px;
+  
+  }
+  
+  
+  .content, .link, .link:hover{
+    font-size:10px;
+    line-height: 16px;
+  }
+  
+  
+  
+  #rightTd {
+    padding-left: 10px;
+    
+    
+    }
+    #right {
+      /*float: left;
+      left: 360px;
+      height: 100%;
+      width: 59%;
+      position: relative;*/
+      margin-left: 60px;
+      left: 0px;
+      width: 80%;
+  
+      }
+  
+    
+    .symbolContainer{
+      width: 70px;
+      height: 70px;
+    }
+
+  #backToMenu {
+    display:block;
+    position:absolute;
+    bottom:20px;
+    right:20px;
+    z-index:100;
+
+  }
+}
