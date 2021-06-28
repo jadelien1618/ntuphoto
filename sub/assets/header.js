@@ -10,7 +10,7 @@ document.write("</div>");
 document.write("<div class = 'headerOutercontainer2'>");
 
 document.write("<div class = 'headercontainer2'>");
-document.write("<a class = 'sideheader' href='index.html' ><div id = 'rotate'>109-2</div>");
+document.write("<a class = 'sideheader' href='nav.html' ><div id = 'rotate'>109-2</div>");
 document.write("</div>");
 document.write("</div>");
 		

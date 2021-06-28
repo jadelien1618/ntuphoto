@@ -1,7 +1,7 @@
 ﻿document.write("<nav>");
 document.write("<ul>");
     
-document.write("<li><a href='index.html' class = 'statement'>");
+document.write("<li><a href='about.html' class = 'statement'>");
 document.write("ABOUT</a></li>");
 document.write("<li><a href = 'https://www.instagram.com/ntuphoto_online_exhibition/' target='_blank' class = 'statement'>");
 document.write("INSTAGRAM</a></li>");
