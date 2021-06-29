@@ -394,8 +394,8 @@ font-family: Arial;  text-transform: none;
     display:block;
     position: absolute;
 
-  bottom: 20px;
-  left: 20px;
+  bottom: 10px;
+  left: 10px;
     z-index: 100;
 
   }
@@ -449,8 +449,8 @@ font-family: Arial;  text-transform: none;
       display:block;
       position: absolute;
   
-    bottom: 20px;
-    left: 20px;
+    bottom: 10px;
+    left: 10px;
       z-index: 100;
   
     }
