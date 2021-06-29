@@ -371,6 +371,10 @@ font-family: Arial;  text-transform: none;
     z-index: 100;
 
   }
+
+  #rightTd {
+    width: 41%;
+  }
 }
 
 @media (max-width: 1024px)  and (orientation:landscape) {
