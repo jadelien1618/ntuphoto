@@ -415,8 +415,8 @@ font-family: Arial;  text-transform: none;
   
   
   .content, .link, .link:hover{
-    font-size:12px;
-    line-height: 16px;
+    font-size:13px;
+    line-height: 20px;
   }
   
   
@@ -435,7 +435,7 @@ font-family: Arial;  text-transform: none;
       padding:20px;
 
       left: 0px;
-      width: 93%;
+      width: 95%;
   
       }
   
