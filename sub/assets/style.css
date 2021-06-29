@@ -3,50 +3,38 @@
   width: 100%;
 }
 
-
-
 nav ul {
 	list-style-type: none;
   padding-left: 70px;
   padding-top: 90px;
-padding-bottom:45px;
+  padding-bottom:45px;
   position: absolute; 
   overflow: hidden;
 }
+
 .headercontainer {
   padding: 10px;
-
   padding-left: 20px;
-
-
   background-color: black;
   border-radius: 2px;
   position: absolute; 
   z-index: 3;
-
-  
 }
 
 .headerOutercontainer {
   padding-top: 3.75em;
   position: absolute; 
-
 }
 
 .headercontainer2 {
-
-padding-top: 22px;
-padding-bottom: 20px;
-padding-right: 0px;
-padding-left: 6px;
-
-
+  padding-top: 22px;
+  padding-bottom: 20px;
+  padding-right: 0px;
+  padding-left: 6px;
   background-color: black;
   border-radius: 2px;
   position: absolute; 
   z-index: 3;
-
-  
 }
 
 .headerOutercontainer2 {
@@ -54,29 +42,22 @@ padding-left: 6px;
   position: absolute; 
 }
 
-
 .headercontainer3 {
-
   padding-top: 22px;
   padding-bottom: 20px;
   padding-right: 0px;
   padding-left: 6px;
+  background-color: black;
+  border-radius: 2px;
+  position: absolute; 
+  z-index: 3; 
+}
   
+.headerOutercontainer3 {
+  padding-top: 15.375em;
+  position: absolute; 
+}
   
-    background-color: black;
-    border-radius: 2px;
-    position: absolute; 
-    z-index: 3;
-  
-    
-  }
-  
-  .headerOutercontainer3 {
-    padding-top: 15.375em;
-    position: absolute; 
-  }
-  
-
 #rotate {
   width: 40px;
   -ms-transform: rotate(90deg); /* IE 9 */
@@ -84,46 +65,40 @@ padding-left: 6px;
 }
 
 .sideheader {
-
   font-size: 12px;
   line-height: 20px;
-font-family: Arial; 
-text-transform: none;
+  font-family: Arial; 
+  text-transform: none;
   text-decoration: none;
   color:  #fcfcfc;
-font-weight: bold;
-
+  font-weight: bold;
   letter-spacing: .1400em;
 }
 
 .header {
-
   font-size: 14px;
   line-height: 20px;
-font-family: Arial;  text-transform: none;
+  font-family: Arial;  text-transform: none;
   text-decoration: none;
   color:  #fcfcfc;
-font-weight: bold;
-
+  font-weight: bold;
   letter-spacing: .1400em;
 }
-.headernoA {
 
+.headernoA {
   font-size: 14px;
   line-height: 20px;
-font-family: Arial;  text-transform: none;
+  font-family: Arial;  text-transform: none;
   text-decoration: none;
   color:  black;
-font-weight: bold;
-
+  font-weight: bold;
   letter-spacing: .1400em;
 }
 
 .header:hover {
   font-size: 14px;
   line-height: 20px;
-
-font-family: Arial;  text-transform: none;
+  font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: white;
   letter-spacing: .1400em;
@@ -132,7 +107,8 @@ font-family: Arial;  text-transform: none;
 .item {
   font-size: 12.5px;
   line-height: 30px;
-font-family: Arial;  text-transform: none;
+  font-family: Arial;  
+  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: 0em;
@@ -141,7 +117,8 @@ font-family: Arial;  text-transform: none;
 .item:hover {
   font-size: 12.5px;
   line-height: 30px;
-font-family: Arial;  text-transform: none;
+  font-family: Arial;  
+  text-transform: none;
   text-decoration: none;
   color: #e13dd0;
   letter-spacing: 0em;
@@ -155,13 +132,12 @@ font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #000000;
   letter-spacing: 00em;
-  
 }
 
 .statement {
   font-size: 13px;
   line-height: 16px;
-font-family: Arial;  text-transform: none;
+  font-family: Arial;  text-transform: none;
   text-decoration: none;
   font-weight: bold;
   color: #000000;
@@ -171,39 +147,27 @@ font-family: Arial;  text-transform: none;
 .statement:hover {
   font-size: 13px;
   line-height: 16px;
-font-family: Arial;  text-transform: none;
+  font-family: Arial;  text-transform: none;
   text-decoration: none;
   color: #e13dd0;
   letter-spacing: 00em;
 }
 
-
-
-
-
 #left {
-    display:table-cell;
-  
-    position: absolute;
+  display:table-cell;
+  position: absolute;
   float: left;
-    width: 330px;
+  width: 330px;
   height: 100%;
-  
-  }
-
-
-
-
+}
 
 #line {
   position: absolute;
   width: 1px;
   min-height: 100%;
-  
   left: 320px;
   background-color: black;
-  z-index: 100 ;
-
+  z-index: 100;
 }
 
 
@@ -222,22 +186,30 @@ body {
 #bufferTop, #bufferBottom, #bufferLeft, #bufferRight {
 	background: black;
 	position: fixed;
-	}
-	#bufferLeft, #bufferRight {
-		top: 0; bottom: 0;
-		width: 14px;
-    z-index: 2;
-		}
-		#bufferLeft { left: 0; }
-		#bufferRight { right: 0; }
+}
+
+#bufferLeft, #bufferRight {
+  top: 0; bottom: 0;
+  width: 14px;
+  z-index: 2;
+}
+
+#bufferLeft { 
+  left: 0; 
+}
+
+#bufferRight { 
+  right: 0; 
+}
 		
-	#bufferTop, #bufferBottom {
-		left: 0; right: 0;
-		height: 14px  ;
-    z-index: 2;
-		}
-		#bufferTop { top: 0; }
-		#bufferBottom { bottom: 0; }
+#bufferTop, #bufferBottom {
+  left: 0; right: 0;
+  height: 14px  ;
+  z-index: 2;
+}
+
+#bufferTop { top: 0; }
+#bufferBottom { bottom: 0; }
 
 
 .symbolContainer {
@@ -360,7 +332,7 @@ font-family: Arial;  text-transform: none;
 
 
 .content, .link, .link:hover{
-  font-size:11px;
+  font-size:12px;
   line-height: 16px;
 }
 
@@ -446,12 +418,11 @@ font-family: Arial;  text-transform: none;
     }
 
     #backToMenu {
-      display:block;
-      position: absolute;
-  
+    display:block;
+    position: absolute;
     bottom: 10px;
     left: 10px;
-      z-index: 100;
+    z-index: 100;
   
     }
 }
