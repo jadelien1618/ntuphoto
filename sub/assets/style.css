@@ -348,19 +348,19 @@ font-family: Arial;  text-transform: none;
 
 
 @media (max-width: 768px) {
-#utmostRight, #line, nav,  #left, #logoContainer  {
-  display:none;
+  #utmostRight, #line, nav,  #left, #logoContainer, #bufferLeft, #bufferRight, #bufferTop, #bufferBottom, .headercontainer, .headercontainer2, .headercontainer3  {
+    display:none;
 }
 
 
 .buffer {
-  padding-top: 70px;
+  padding-top: 40px;
 
 }
 
 
 .content, .link, .link:hover{
-  font-size:10px;
+  font-size:11px;
   line-height: 16px;
 }
 
@@ -377,9 +377,10 @@ font-family: Arial;  text-transform: none;
     height: 100%;
     width: 59%;
     position: relative;*/
-    margin-left: 50px;
+    padding:5px;
+
     left: 0px;
-    width: 80%;
+    width: 96%;
 
     }
 
@@ -402,19 +403,19 @@ font-family: Arial;  text-transform: none;
 
 @media (max-width: 1024px)  and (orientation:landscape) {
 
-  #utmostRight, #line, nav,  #left, #logoContainer  {
+  #utmostRight, #line, nav,  #left, #logoContainer, #bufferLeft, #bufferRight, #bufferTop, #bufferBottom, .headercontainer, .headercontainer2, .headercontainer3  {
     display:none;
   }
   
   
   .buffer {
-    padding-top: 70px;
+    padding-top: 60px;
   
   }
   
   
   .content, .link, .link:hover{
-    font-size:10px;
+    font-size:12px;
     line-height: 16px;
   }
   
@@ -431,9 +432,10 @@ font-family: Arial;  text-transform: none;
       height: 100%;
       width: 59%;
       position: relative;*/
-      margin-left: 60px;
+      padding:20px;
+
       left: 0px;
-      width: 80%;
+      width: 93%;
   
       }
   
@@ -443,13 +445,13 @@ font-family: Arial;  text-transform: none;
       height: 70px;
     }
 
-  #backToMenu {
-    display:block;
-
-    bottom:20px;
-
-    right:20px;
-    z-index:100;
-
-  }
+    #backToMenu {
+      display:block;
+      position: absolute;
+  
+    bottom: 20px;
+    left: 20px;
+      z-index: 100;
+  
+    }
 }

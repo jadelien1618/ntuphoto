@@ -52,10 +52,8 @@ padding: 75px;
 
 .content, .link, .link:hover{
   font-size:12px;
-  line-height: 14px;
+  line-height: 18px;
 }
-
-
 
   
   
@@ -66,7 +64,42 @@ padding: 75px;
     width: 59%;
     position: relative;*/
 
-    left: 20px;
+    left: 40px;
+    width: 70%;
+	overflow-y: scroll;
+
+    }
+
+  
+}
+
+@media (max-width: 1024px)  and (orientation:landscape) {
+#utmostRight, #line, nav,  #left, #logoContainer  {
+  display:none;
+}
+
+
+.buffer {
+  padding-top: 0px;
+
+}
+
+
+.content, .link, .link:hover{
+  font-size:12px;
+  line-height: 18px;
+}
+
+  
+  
+  #right {
+    /*float: left;
+    left: 360px;
+    height: 100%;
+    width: 59%;
+    position: relative;*/
+	padding-top:0px;
+    left: 40px;
     width: 70%;
 	overflow-y: scroll;
 
