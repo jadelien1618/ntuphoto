@@ -46,7 +46,7 @@ document.write("<li><a href='李品瑩.html' class = 'item'>");
 document.write("<i>捕捉</i>, 李品瑩</a></li>");
 
 document.write("<li><a href='杜可筠.html' class = 'item'>");
-document.write("<i>17・18 / 18・19 / STE</i>, 杜可筠</a></li>");
+document.write("<i>16歲到19歲的攝影書</i>, 杜可筠</a></li>");
 
 document.write("<li><a href='王淨薇.html' class = 'item'>");
 document.write("<i>家庭樹</i>, 王淨薇</a></li>");
